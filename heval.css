@@ -1,0 +1,50 @@
+.sh{
+	background-color: red;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 30px;
+	width: 100px;
+	height: 600px
+}
+.sh img
+     width: 20%;
+     height: 90%;
+     border-radius: 10px
+     border: 10px dotted green;
+     filter: grayscale(100%);
+}
+
+.sh img:hover{
+	 filter:none;
+	 transform: scale(1.05);
+			
+	
+}
+
+
+
+
+
+
+
+
+}
+
+
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
